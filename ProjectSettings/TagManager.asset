@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lamp Head
+  - Trajectory Point
+  - Clickity
+  - Clackity
+  - spike
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - background
+  - middleground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1890626497
+    locked: 0
+  - name: middleground
+    uniqueID: 1912704725
+    locked: 0
+  - name: mainground
+    uniqueID: 2196147105
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
